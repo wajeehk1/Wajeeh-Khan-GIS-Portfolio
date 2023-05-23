@@ -8,11 +8,10 @@
 ---
 
 [Resume](/finalproj/index.md) <br/>
-<img src="finalproj/images/Screenshot 2022-05-09 131724.png" width = "50%" height = "50%"/>
 
 ---
 
-[Sociospatial distribution of PurpleAir sensors in Maryland](/dss/purple.md) <br/>
-<img src="images/it worked MHI.png?raw=true" width = "50%" height = "50%"/>
+[LAB 10 WIP](/dss/purple.md) <br/>
+
 
 
