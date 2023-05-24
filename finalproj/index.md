@@ -9,7 +9,7 @@ With the multiple heart attacks from the recent droughts in southern California,
 
 ---
 
-### Top 10 resource hogs
+### Top 10 resource hungry counties
 
 <img src="/finalproj/images/bar.png" width = "80%" height = "100%">
 
