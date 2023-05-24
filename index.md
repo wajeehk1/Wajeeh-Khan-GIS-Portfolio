@@ -1,5 +1,5 @@
 ### Resume 
-[Link](/finalproj/index.md) <br/>
+[Link](/sample_page.md) <br/>
 
 ---
 
@@ -11,7 +11,6 @@
 <img src="finalproj/images/thumbnail.png" width = "50%" height = "50%"/>
 </a></p>
 
----
 
 [LAB 10 WIP] <br/>
 
