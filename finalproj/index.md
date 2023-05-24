@@ -6,7 +6,7 @@ Given the multiple heart attacks from the recent droughts in southern California
 ### Here is a map which shows the distribution of water consumption across the counties within the hydrological boundary
 
 <br/>
-<IMG SRC = "/FINALPROJ/THUMBNAIL2.PNG"/> 
+<img src="/finalproj/Thumbnail2.PNG" width = "100%" height = "100%"/>
 
 ---
 
