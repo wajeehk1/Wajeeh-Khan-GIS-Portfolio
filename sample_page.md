@@ -1,25 +1,59 @@
-## Sociospatial distribution of PurpleAir sensors in Maryland
+Objective
+======
+Pursuing a career in Environmental Sciences, specifically in hydrology and geomorphology. Hoping to study extreme floods, the potential impact of climate trends on rainfall intensity and flood frequency, watershed scale responses to stresses and restoration, as well as the severity of storm surge flooding in relation to increased sea level.
 
-**Project description:** Using Python scripting and GIS packages, maps were developed to find the differences in where someone lives and where their nearest air quality sensor is.
 
-### 1. Why is this important?
+Education
+======
+* University of Maryland of Baltimore County Environmental Science and Geography, B.Sc.
+GPA 3.19; Expected graduation Fall 2023
 
-Underserved communities across the country are often overlooked by the EPA's AQS monitoring network, usually based on economic, political, and social motivations. Since the likelihood of living nearer to industry and manufacturing falls disproportionately on marginalized communities, the lack of information about hyperlocal air quality in these areas can be deadly. 
+* Community College of Baltimore County
+Transferred
+2017-2020
 
-Brands like PurpleAir and IQAir offer a simple, all-in-one package to track various air quality metrics such as PM2.5, ground-level ozone, and oxides, while modular, open-source kits exist for the more tech-savvy built on platforms such as Arduino and Raspberry Pi. Many of these options can be configured to output AQI, depending on the types of data collected. These sensors cost between $100 and $5,000 depending on the options selected. Though this is orders of magnitude less expensive than the regulation-grade monitors, these prices are still prohibitive to lower-income households.
+Work experience
+======
+* [April-August 2021]
+Immigration Legal Office Assistant/ Paralegal Apprentice
+Part-Time Independent Contract Work
+Business & Immigration Lawyers P.C, Corona, CA
+* [July-August 2021]
+Office Aide
+Part-Time Independent Contract Work
+Qazi Law Group, Riverside, CA
+* [Summer 2017/2018]
+Engineering/ Quality Assurance/ Cost Accounting Intern
+40 hr/week ; $11/hr
+United CoolAir Corp., York, PA
 
-<img src="images/distro.png?raw=true"/>
+  
+Skills
+======
+* Experienced in Excel and other Office applications
+▪ Can maintain basic conversation in ASL
+▪ Experienced with computer assembly and operating systems (OS) installation
+▪ Engaged in fundraising events
+▪ Tutored elementary grade students
 
-### 2. How did we do this?
-
-Python was used to pull the location of PurpleAir sensors for Maryland and surrounding states. A k-dimensional search tree was used to locate the nearest PurpleAir sensor to each census tract in the area, and then the difference in median household income (MHI) and percentage of BIPOC residents was calculated for each tract and the tract in which its nearest sensor was located.
-
-### 3. What did we see?
-
-<img src="images/it worked MHI.png" width="500" />
-
-Tracts seen in red are those with a lower MHI than the closest PurpleAir sensor to their location. Blue tracts have a higher MHI than their closest sensor location.
-
-### 4. How can we use this?
-
-This map clearly demonstrates Baltimore's [White L](https://www.baltimoresun.com/citypaper/bcpnews-two-baltimores-the-white-l-vs-the-black-butterfly-20160628-htmlstory.html), a historically prevalent trend evolved from the redlining days of the early 30s. This data, when expanded to the national level, can be used to demonstrate locations with high population density (like Baltimore) that are underrepresented by local air quality sensing solutions.
+Notable Academic Coursework
+======
+* Weather and Climate
+* Laboratory and Field Techniques in Environmental Science
+* Ecology
+* GIS I: A Geo-Spatial Perspective
+* GIS II: Introduction to GIS
+* Environmental Science and Conservation
+* Introduction to Physical Geography
+* Statistics for Scientists and Engineers
+* American Sign Language I, II, III
+Spring 2023 (WIP) Courses
+* Wetlands Ecology
+* Geomorphology
+* Climate Change
+* Advanced Applications in GIS
+Fall 2023 Courses
+* Urban Ecosystems
+* Remote Sensing
+* Fluvial Geomorphology
+* Geography of Disease and Health
