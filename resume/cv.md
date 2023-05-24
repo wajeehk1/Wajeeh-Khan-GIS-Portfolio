@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "Resume"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /resume/
+  - /cv.html
+---
+
 Objective
 ======
 Pursuing a career in Environmental Sciences, specifically in hydrology and geomorphology. Hoping to study extreme floods, the potential impact of climate trends on rainfall intensity and flood frequency, watershed scale responses to stresses and restoration, as well as the severity of storm surge flooding in relation to increased sea level.
