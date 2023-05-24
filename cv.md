@@ -32,10 +32,10 @@ United CoolAir Corp., York, PA
 Skills
 ======
 * Experienced in Excel and other Office applications
-▪ Can maintain basic conversation in ASL
-▪ Experienced with computer assembly and operating systems (OS) installation
-▪ Engaged in fundraising events
-▪ Tutored elementary grade students
+* Can maintain basic conversations in ASL
+* Experienced with computer assembly and operating systems (OS) installation
+* Engaged in fundraising events
+* Tutored elementary grade students
 
 Notable Academic Coursework
 ======
