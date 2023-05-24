@@ -47,11 +47,13 @@ Notable Academic Coursework
 * Introduction to Physical Geography
 * Statistics for Scientists and Engineers
 * American Sign Language I, II, III
+
 Spring 2023 (WIP) Courses
 * Wetlands Ecology
 * Geomorphology
 * Climate Change
 * Advanced Applications in GIS
+
 Fall 2023 Courses
 * Urban Ecosystems
 * Remote Sensing
