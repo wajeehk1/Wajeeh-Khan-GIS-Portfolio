@@ -1,5 +1,5 @@
 
-### [Resume](/pages/cv.md) <br/>
+### [Resume](cv.md) <br/>
 
 ---
 
