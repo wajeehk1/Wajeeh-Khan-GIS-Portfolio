@@ -1,8 +1,3 @@
-### Resume 
-[Link](/sample_page.md) <br/>
-
----
-
 ### Portfolio
 ---
 
