@@ -1,3 +1,7 @@
+### [Resume](/pages/cv.md) <br/>
+
+---
+
 ### Portfolio
 ---
 
