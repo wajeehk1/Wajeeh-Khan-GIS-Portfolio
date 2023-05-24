@@ -5,6 +5,7 @@ excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /_pages/
+  - /resume/
   - /cv.html
 ---
 
