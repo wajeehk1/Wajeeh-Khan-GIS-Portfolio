@@ -1,4 +1,3 @@
----
 
 ### [Resume](/pages/cv.md) <br/>
 
