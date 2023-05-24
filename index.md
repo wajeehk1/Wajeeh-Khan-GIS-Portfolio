@@ -1,3 +1,8 @@
+### Resume 
+[Link](/finalproj/index.md) <br/>
+
+---
+
 ### Portfolio
 ---
 
@@ -8,11 +13,7 @@
 
 ---
 
-[Resume](/finalproj/index.md) <br/>
-
----
-
-[LAB 10 WIP](/dss/purple.md) <br/>
+[LAB 10 WIP] <br/>
 
 
 
