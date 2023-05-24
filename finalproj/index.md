@@ -5,18 +5,22 @@ With the multiple heart attacks from the recent droughts in southern California,
 
 ### Here is a map which shows the distribution of water consumption across the counties within the hydrological boundary
 
-<br/><img src="finalproj/images/Thumbnail2.png">
+![thumby](/finalproj/images/Thumbnail2.png "thumby") 
+<br/><img src="/finalproj/images/Thumbnail2.png">
 
 ---
 
 ### Top 10 resource hungry counties
 
-<br/><img src="finalproj/images/bar.png">
+![Badassness scales](/images/scales.png "Badassness scales")
+<br/><img src="/finalproj/images/bar.png">
 
 ---
 
 ### Notable relationships found from plotting and analyzing
 
-<br/><img src="finalproj/images/pop.png">
-<br/><img src="finalproj/images/white.png?raw=true">
+![Badassness scales](/images/scales.png "Badassness scales")
+<br/><img src="/finalproj/images/pop.png">
+![Badassness scales](/images/scales.png "Badassness scales")
+<br/><img src="/finalproj/images/white.png">
 
