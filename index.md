@@ -1,7 +1,7 @@
 ### Portfolio
 ---
 
-[Final Project](/finalproj/index.md) <br/>
+[Final Project](/finalproj/report.md) <br/>
 <img src="/images/thumbnail.png" width = "50%" height = "50%"/>
 
 
