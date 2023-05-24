@@ -3,9 +3,7 @@ permalink: /
 title: "Resume"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /_pages/
-  - /cv.html
+redirect_from: /_pages/cv.html
 ---
 
 Objective
