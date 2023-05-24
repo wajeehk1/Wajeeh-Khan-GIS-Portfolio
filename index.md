@@ -6,7 +6,7 @@
 ---
 
 [Final Project](/finalproj/index.md) <br/>
-<img src="/images/thumbnail.png" width = "50%" height = "50%"/>
+<img src="./images/thumbnail.png" width = "50%" height = "50%"/>
 
 
 
