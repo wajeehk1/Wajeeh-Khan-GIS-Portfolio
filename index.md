@@ -14,5 +14,3 @@
 #### [Lab 10](/LAB10/index.html) <br/>
 <img src="./images/lab 10 thum.JPG" width = "50%" height = "50%"/>
 
-
-
