@@ -13,16 +13,18 @@ Given the multiple heart attacks from the recent droughts in southern California
 ### Top 10 resource hungry counties
 
 <br/>
-<img src="/finalproj/bar.png" width = "100%" height = "100%"/>
+<img src="/finalproj/bar.png?raw=true" width = "100%" height = "100%"/>
 
 ---
 
 ### Notable relationships found from plotting and analyzing
 
 <br/>
-<img src="/finalproj/pop.png" width = "100%" height = "100%"/>
+<img src="/finalproj/pop.png?raw=true" width = "100%" height = "100%"/>
 
 <br/>
-<img src="images/white.png?raw=true" width = "100%" height = "100%"/>
+<img src="/images/white.PNG?raw=true" width = "100%" height = "100%"/>
 
+<br/>
 <object data="/finalproj/FinalReport_WajeehK.pdf" type="application/pdf" width="700px" height="700px"/>
+<br/>
