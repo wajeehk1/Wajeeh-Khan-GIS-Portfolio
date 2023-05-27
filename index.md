@@ -1,9 +1,3 @@
-
-### Resume
-[Link](cv.md) <br/>
-
----
-
 ### Portfolio
 ---
 
