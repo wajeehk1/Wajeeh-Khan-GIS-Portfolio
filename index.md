@@ -11,8 +11,8 @@
 <img src="./images/thumbnail.png" width = "50%" height = "50%"/>
 
 
-
-[LAB 10 WIP] <br/>
+#### [Lab 10](/LAB10/index.html) <br/>
+<img src="./images/lab 10 thum.JPG" width = "50%" height = "50%"/>
 
 
 
