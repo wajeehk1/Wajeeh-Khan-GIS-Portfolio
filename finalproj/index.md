@@ -23,7 +23,7 @@ Given the multiple heart attacks from the recent droughts in southern California
 <img src="/finalproj/pop.png?raw=true" width = "100%" height = "100%"/>
 
 <br/>
-<img src="/images/white.PNG?raw=true" width = "100%" height = "100%"/>
+<img src="/finalproj/white.png?raw=true" width = "100%" height = "100%"/>
 
 <br/>
 <object data="/finalproj/FinalReport_WajeehK.pdf" type="application/pdf" width="700px" height="700px"/>
