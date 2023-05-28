@@ -6,6 +6,7 @@ As a driven undergraduate student nearing graduation, I am looking for valuable 
 My prior experiences ready me for office work and a professional environment, allowing me to be familiar with how to communicate in a professional matter, as well as helping me discover and further cultivate empathy, determination, and persistence. In terms of learned skills, all my internships helped develop familiarity with multiple Office programs, such as Excel, Word, and PowerPoint.
 
 In my free time, I find myself preoccupied with working on home renovation projects, going to the range for some archery, or attempting to be a good father to my two parakeets. 
+
 Thank you for visiting my portfolio. Please feel free to reach out to me with any questions, opportunities, or collaborations.
 
 
