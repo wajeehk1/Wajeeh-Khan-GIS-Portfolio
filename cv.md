@@ -7,7 +7,7 @@ Pursuing a career in Environmental Sciences, specifically in hydrology and geomo
 Education
 ======
 * University of Maryland of Baltimore County Environmental Science and Geography, B.Sc.
-GPA 3.19; Expected graduation Fall 2023
+GPA 3.19; Expected graduation Spring 2024
 
 * Community College of Baltimore County
 Transferred
