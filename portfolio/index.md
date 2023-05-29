@@ -7,5 +7,5 @@
 
 ---
 
-#### [Lab 10: Webmap](../LAB10/index.html) <br/>
+#### [486 Lab 10: Webmap](../LAB10/index.html) <br/>
 <img src="../images/lab 10 thumb.jpg" width = "50%" height = "50%"/>
