@@ -2,10 +2,10 @@
 
 ----
 
-#### [486 Final Project](../finalproj/index.md) <br/>
+#### [(486) Final Project](../finalproj/index.md) <br/>
 <img src="../images/thumbnail.png" width = "50%" height = "50%"/>
 
 ---
 
-#### [486 Lab 10: Webmap](../LAB10/index.html) <br/>
+#### [(486) Lab 10: Webmap](../LAB10/index.html) <br/>
 <img src="../images/lab 10 thumb.jpg" width = "50%" height = "50%"/>
