@@ -10,6 +10,6 @@
 ---
 
 #### [(486) Lab 10: Webmap](../LAB10/index.html) <br/>
-<a href="https://wajeehk1.github.io/wajeehk.github.io/LAB10/index.html#6/38.138/-110.810">
+<a href="https://wajeehk1.github.io/wajeehk.github.io/LAB10/index.html">
 <img src="../images/lab 10 thumb.jpg" width = "50%" height = "50%"/>
 <a/>
